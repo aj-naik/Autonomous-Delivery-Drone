@@ -1,0 +1,8 @@
+prefix=/home/aj/catkin_ws/devel/.private/pkg_task0
+
+Name: pkg_task0
+Description: Description of pkg_task0
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

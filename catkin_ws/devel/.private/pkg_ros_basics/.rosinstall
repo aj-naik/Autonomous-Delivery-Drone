@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/aj/catkin_ws/devel/.private/pkg_ros_basics/setup.sh

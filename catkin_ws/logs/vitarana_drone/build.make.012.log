@@ -1,0 +1,29 @@
+[35m[1mScanning dependencies of target _vitarana_drone_generate_messages_check_deps_MarkerData[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  6%] Built target vitarana_drone_gencfg
+[  6%] Built target std_msgs_generate_messages_cpp
+[  6%] Built target std_msgs_generate_messages_eus
+[  6%] Built target std_msgs_generate_messages_nodejs
+[  6%] Built target std_msgs_generate_messages_lisp
+[  6%] Built target _vitarana_drone_generate_messages_check_deps_Gripper
+[  6%] Built target _vitarana_drone_generate_messages_check_deps_prop_speed
+[  6%] Built target _vitarana_drone_generate_messages_check_deps_edrone_cmd
+[  6%] Built target _vitarana_drone_generate_messages_check_deps_MarkerData
+[ 10%] [34m[1mGenerating Lisp code from vitarana_drone/MarkerData.msg[0m
+[ 24%] [34m[1mGenerating EusLisp code from vitarana_drone/MarkerData.msg[0m
+[ 24%] [34m[1mGenerating Javascript code from vitarana_drone/MarkerData.msg[0m
+[ 24%] [34m[1mGenerating Python from MSG vitarana_drone/MarkerData[0m
+[ 24%] [34m[1mGenerating C++ code from vitarana_drone/MarkerData.msg[0m
+[ 34%] Built target vitarana_drone_generate_messages_nodejs
+[ 44%] Built target vitarana_drone_generate_messages_lisp
+[ 58%] Built target vitarana_drone_generate_messages_eus
+[ 65%] [34m[1mGenerating Python msg __init__.py for vitarana_drone[0m
+[ 65%] [34m[1mGenerating Python srv __init__.py for vitarana_drone[0m
+[ 75%] Built target vitarana_drone_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_edrone_propulsion[0m
+[ 82%] Built target gazebo_ros_gps
+[ 93%] Built target vitarana_drone_generate_messages_py
+[ 96%] [32mBuilding CXX object CMakeFiles/gazebo_edrone_propulsion.dir/src/gazebo_edrone_propulsion.cpp.o[0m
+[ 96%] Built target vitarana_drone_generate_messages
+[100%] [32m[1mLinking CXX shared library /home/aj/catkin_ws/devel/.private/vitarana_drone/lib/libgazebo_edrone_propulsion.so[0m
+[100%] Built target gazebo_edrone_propulsion

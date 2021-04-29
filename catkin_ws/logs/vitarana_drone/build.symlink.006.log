@@ -1,0 +1,49 @@
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/include/vitarana_drone/SensorModelConfig.h, /home/aj/catkin_ws/devel/include/vitarana_drone/SensorModelConfig.h)
+Symlinking /home/aj/catkin_ws/devel/include/vitarana_drone/GripperResponse.h
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/include/vitarana_drone/prop_speed.h, /home/aj/catkin_ws/devel/include/vitarana_drone/prop_speed.h)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/include/vitarana_drone/GNSSConfig.h, /home/aj/catkin_ws/devel/include/vitarana_drone/GNSSConfig.h)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/include/vitarana_drone/edrone_cmd.h, /home/aj/catkin_ws/devel/include/vitarana_drone/edrone_cmd.h)
+Symlinking /home/aj/catkin_ws/devel/include/vitarana_drone/Gripper.h
+Symlinking /home/aj/catkin_ws/devel/include/vitarana_drone/GripperRequest.h
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/gennodejs/ros/vitarana_drone/_index.js, /home/aj/catkin_ws/devel/share/gennodejs/ros/vitarana_drone/_index.js)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/gennodejs/ros/vitarana_drone/msg/edrone_cmd.js, /home/aj/catkin_ws/devel/share/gennodejs/ros/vitarana_drone/msg/edrone_cmd.js)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/gennodejs/ros/vitarana_drone/msg/prop_speed.js, /home/aj/catkin_ws/devel/share/gennodejs/ros/vitarana_drone/msg/prop_speed.js)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/gennodejs/ros/vitarana_drone/msg/_index.js, /home/aj/catkin_ws/devel/share/gennodejs/ros/vitarana_drone/msg/_index.js)
+Symlinking /home/aj/catkin_ws/devel/share/gennodejs/ros/vitarana_drone/srv/Gripper.js
+Symlinking /home/aj/catkin_ws/devel/share/gennodejs/ros/vitarana_drone/srv/_index.js
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/common-lisp/ros/vitarana_drone/msg/_package_edrone_cmd.lisp, /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/msg/_package_edrone_cmd.lisp)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/common-lisp/ros/vitarana_drone/msg/_package.lisp, /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/msg/_package.lisp)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/common-lisp/ros/vitarana_drone/msg/_package_prop_speed.lisp, /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/msg/_package_prop_speed.lisp)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/common-lisp/ros/vitarana_drone/msg/vitarana_drone-msg.asd, /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/msg/vitarana_drone-msg.asd)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/common-lisp/ros/vitarana_drone/msg/edrone_cmd.lisp, /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/msg/edrone_cmd.lisp)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/common-lisp/ros/vitarana_drone/msg/prop_speed.lisp, /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/msg/prop_speed.lisp)
+Symlinking /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/srv/Gripper.lisp
+Symlinking /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/srv/_package.lisp
+Symlinking /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/srv/vitarana_drone-srv.asd
+Symlinking /home/aj/catkin_ws/devel/share/common-lisp/ros/vitarana_drone/srv/_package_Gripper.lisp
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/roseus/ros/vitarana_drone/manifest.l, /home/aj/catkin_ws/devel/share/roseus/ros/vitarana_drone/manifest.l)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/roseus/ros/vitarana_drone/msg/prop_speed.l, /home/aj/catkin_ws/devel/share/roseus/ros/vitarana_drone/msg/prop_speed.l)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/roseus/ros/vitarana_drone/msg/edrone_cmd.l, /home/aj/catkin_ws/devel/share/roseus/ros/vitarana_drone/msg/edrone_cmd.l)
+Symlinking /home/aj/catkin_ws/devel/share/roseus/ros/vitarana_drone/srv/Gripper.l
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/docs/GNSSConfig.wikidoc, /home/aj/catkin_ws/devel/share/vitarana_drone/docs/GNSSConfig.wikidoc)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/docs/SensorModelConfig.dox, /home/aj/catkin_ws/devel/share/vitarana_drone/docs/SensorModelConfig.dox)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/docs/GNSSConfig-usage.dox, /home/aj/catkin_ws/devel/share/vitarana_drone/docs/GNSSConfig-usage.dox)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/docs/SensorModelConfig-usage.dox, /home/aj/catkin_ws/devel/share/vitarana_drone/docs/SensorModelConfig-usage.dox)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/docs/SensorModelConfig.wikidoc, /home/aj/catkin_ws/devel/share/vitarana_drone/docs/SensorModelConfig.wikidoc)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/docs/GNSSConfig.dox, /home/aj/catkin_ws/devel/share/vitarana_drone/docs/GNSSConfig.dox)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/cmake/vitarana_droneConfig.cmake, /home/aj/catkin_ws/devel/share/vitarana_drone/cmake/vitarana_droneConfig.cmake)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/cmake/vitarana_drone-msg-paths.cmake, /home/aj/catkin_ws/devel/share/vitarana_drone/cmake/vitarana_drone-msg-paths.cmake)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/cmake/vitarana_droneConfig-version.cmake, /home/aj/catkin_ws/devel/share/vitarana_drone/cmake/vitarana_droneConfig-version.cmake)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/share/vitarana_drone/cmake/vitarana_drone-msg-extras.cmake, /home/aj/catkin_ws/devel/share/vitarana_drone/cmake/vitarana_drone-msg-extras.cmake)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/libgazebo_ros_gps.so, /home/aj/catkin_ws/devel/lib/libgazebo_ros_gps.so)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/libgazebo_edrone_propulsion.so, /home/aj/catkin_ws/devel/lib/libgazebo_edrone_propulsion.so)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/__init__.py, /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/__init__.py)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/msg/__init__.py, /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/msg/__init__.py)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/msg/_prop_speed.py, /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/msg/_prop_speed.py)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/msg/_edrone_cmd.py, /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/msg/_edrone_cmd.py)
+Symlinking /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/srv/__init__.py
+Symlinking /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/srv/_Gripper.py
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/cfg/__init__.py, /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/cfg/__init__.py)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/cfg/GNSSConfig.py, /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/cfg/GNSSConfig.py)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/python2.7/dist-packages/vitarana_drone/cfg/SensorModelConfig.py, /home/aj/catkin_ws/devel/lib/python2.7/dist-packages/vitarana_drone/cfg/SensorModelConfig.py)
+Linked: (/home/aj/catkin_ws/devel/.private/vitarana_drone/lib/pkgconfig/vitarana_drone.pc, /home/aj/catkin_ws/devel/lib/pkgconfig/vitarana_drone.pc)

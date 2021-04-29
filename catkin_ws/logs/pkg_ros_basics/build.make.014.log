@@ -1,0 +1,31 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _pkg_ros_basics_generate_messages_check_deps_AddTwoInts
+[  0%] Built target _pkg_ros_basics_generate_messages_check_deps_myMessage
+[  7%] [34m[1mGenerating Lisp code from pkg_ros_basics/myMessage.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from pkg_ros_basics/AddTwoInts.srv[0m
+[ 30%] [34m[1mGenerating Lisp code from pkg_ros_basics/AddTwoInts.srv[0m
+[ 30%] [34m[1mGenerating Javascript code from pkg_ros_basics/myMessage.msg[0m
+[ 38%] [34m[1mGenerating EusLisp code from pkg_ros_basics/myMessage.msg[0m
+[ 53%] [34m[1mGenerating EusLisp manifest code for pkg_ros_basics[0m
+[ 53%] [34m[1mGenerating EusLisp code from pkg_ros_basics/AddTwoInts.srv[0m
+[ 61%] [34m[1mGenerating Python from MSG pkg_ros_basics/myMessage[0m
+[ 69%] [34m[1mGenerating C++ code from pkg_ros_basics/AddTwoInts.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV pkg_ros_basics/AddTwoInts[0m
+[ 84%] [34m[1mGenerating C++ code from pkg_ros_basics/myMessage.msg[0m
+[ 84%] Built target pkg_ros_basics_generate_messages_nodejs
+[ 84%] Built target pkg_ros_basics_generate_messages_lisp
+[ 92%] [34m[1mGenerating Python msg __init__.py for pkg_ros_basics[0m
+[100%] [34m[1mGenerating Python srv __init__.py for pkg_ros_basics[0m
+[100%] Built target pkg_ros_basics_generate_messages_py
+[100%] Built target pkg_ros_basics_generate_messages_cpp
+[100%] Built target pkg_ros_basics_generate_messages_eus
+[100%] Built target pkg_ros_basics_generate_messages

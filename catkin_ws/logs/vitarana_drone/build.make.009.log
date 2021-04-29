@@ -1,0 +1,20 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  8%] Built target vitarana_drone_gencfg
+[  8%] Built target _vitarana_drone_generate_messages_check_deps_Gripper
+[  8%] Built target _vitarana_drone_generate_messages_check_deps_prop_speed
+[  8%] Built target _vitarana_drone_generate_messages_check_deps_edrone_cmd
+[ 58%] Built target vitarana_drone_generate_messages_nodejs
+[ 62%] Built target vitarana_drone_generate_messages_lisp
+[ 58%] Built target vitarana_drone_generate_messages_cpp
+[ 62%] Built target vitarana_drone_generate_messages_eus
+[ 83%] Built target vitarana_drone_generate_messages_py
+[35m[1mScanning dependencies of target gazebo_edrone_propulsion[0m
+[ 83%] Built target vitarana_drone_generate_messages
+[ 91%] Built target gazebo_ros_gps
+[ 95%] [32mBuilding CXX object CMakeFiles/gazebo_edrone_propulsion.dir/src/gazebo_edrone_propulsion.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/aj/catkin_ws/devel/.private/vitarana_drone/lib/libgazebo_edrone_propulsion.so[0m
+[100%] Built target gazebo_edrone_propulsion

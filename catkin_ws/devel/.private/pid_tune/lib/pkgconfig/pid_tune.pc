@@ -1,0 +1,8 @@
+prefix=/home/aj/catkin_ws/devel/.private/pid_tune
+
+Name: pid_tune
+Description: Description of pid_tune
+Version: 0.0.0
+Cflags: -I/home/aj/catkin_ws/devel/.private/pid_tune/include
+Libs: -L${prefix}/lib 
+Requires: 

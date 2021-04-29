@@ -1,0 +1,8 @@
+prefix=/home/aj/catkin_ws/install
+
+Name: pkg_ros_basics
+Description: Description of pkg_ros_basics
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

@@ -1,0 +1,5 @@
+pkg_task0
+/home/aj/catkin_ws/devel/.private/pkg_task0/cmake.lock /home/aj/catkin_ws/devel/./cmake.lock
+/home/aj/catkin_ws/devel/.private/pkg_task0/share/pkg_task0/cmake/pkg_task0Config.cmake /home/aj/catkin_ws/devel/share/pkg_task0/cmake/pkg_task0Config.cmake
+/home/aj/catkin_ws/devel/.private/pkg_task0/share/pkg_task0/cmake/pkg_task0Config-version.cmake /home/aj/catkin_ws/devel/share/pkg_task0/cmake/pkg_task0Config-version.cmake
+/home/aj/catkin_ws/devel/.private/pkg_task0/lib/pkgconfig/pkg_task0.pc /home/aj/catkin_ws/devel/lib/pkgconfig/pkg_task0.pc

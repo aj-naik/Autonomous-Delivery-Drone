@@ -1,0 +1,15 @@
+<launch>
+    
+    <node pkg="turtlesim" type="turtlesim_node" name="node_turtlesim_node">
+        <param name="/turtlesim_node/background_r" value="34" />
+        <param name="/turtlesim_node/background_g" value="139" />
+        <param name="/turtlesim_node/background_b" value="34" />
+        <param name="/background_r" value="34" />
+        <param name="/background_g" value="139" />
+        <param name="/background_b" value="34" />
+    </node>
+    
+    <node pkg="turtlesim" type="turtle_teleop_key" name="node_turtle_teleop_key" />
+
+</launch>
+
