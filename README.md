@@ -1,6 +1,12 @@
 # Autonomous-Delivery-Done
 Our implementation of an Autonomous delivery drone system. This project was created under the aegis of E-Yantra robotics competition and uses ROS and Gazebo simulator with various environments For testing. The drone uses PID controller for its operation.
 
+# Requirements:
+1. Ubuntu 18.04
+2. Ros Melodic
+3. Plot Juggler
+4. Gazebo 
+
 # Code Directory:
 Vitarana_drone is the directory containing everything related to delivery drone. From gazebo models, environments to scripts.
 The scripts for drone operation are in "catkin_ws/src/vitarana_drone/scripts"
