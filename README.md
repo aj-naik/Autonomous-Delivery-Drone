@@ -1,5 +1,5 @@
 # Autonomous-Delivery-Done
-Our implementation of an Autonomous delivery drone system. This project was created under the aegis of E-Yantra robotics competition and uses ROS and Gazebo simulator with various environments For testing. The drone uses PID controller for its operation.
+Our implementation of an Vitarna Drone Autonomous delivery drone system. This project was created under the aegis of E-Yantra robotics competition and uses ROS and Gazebo simulator with various environments For testing. The drone uses PID controller for its operation.
 
 # Requirements:
 1. Ubuntu 18.04
